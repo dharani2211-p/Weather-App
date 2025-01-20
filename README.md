@@ -1,4 +1,4 @@
-🌤 Weather App
+🌤<h1> Weather App</h1>
 A simple weather application that fetches and displays real-time weather data for any city using the OpenWeatherMap API.
 
 Features:
